@@ -1,6 +1,12 @@
 
 # Restaurant API
 
+## Entity Relational Diagram
+
+<img width="951" alt="domain-1" src="https://user-images.githubusercontent.com/105637783/226190889-8cc2bd46-1a9a-4324-a377-1fbe0e3c8fa3.png">
+
+
+
 ## Introduction.
 This is a restaurant api
 It has 3 tables restaurant,pizza,restaurantpizza
