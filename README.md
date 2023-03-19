@@ -1,7 +1,7 @@
 
-###Restaurant API
+### Restaurant API
 
-## Intriduction.
+## Introduction.
 This is a restaurant api
 It has 3 tables restaurant,pizza,restaurantpizza
 
