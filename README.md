@@ -1,5 +1,5 @@
 
-#### Restaurant API
+# Restaurant API
 
 ## Introduction.
 This is a restaurant api
