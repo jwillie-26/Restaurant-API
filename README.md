@@ -37,11 +37,11 @@ No custom configuration is required for this app
 
 ## First-Time Setup
 
-1. Clone the code from GitHub using `git clone https://github.com/jwillie-26/Pizzas-API.git`
+1. Clone the code from GitHub using `git clone https://github.com/jwillie-26/Restaurant-API.git`
 2. Read this README ;
 3. Install dependencies using `bundle`.
-4. Seeding test data-rails db:seed to seed th data.
-5. Turn on the server with `rails server`- The server will run on `http://localhost:3000`
+4. Seeding test data-rails db:seed to seed the data.
+5. Turn on the server with `rails s`- The server will run on `http://localhost:3000`
 
 
 
